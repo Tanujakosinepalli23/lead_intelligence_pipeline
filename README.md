@@ -32,4 +32,6 @@ Webhook → IF → HTTP Request → Code → Respond to Webhook
 
 ## 📡 Webhook Configuration
 
-### Test URL
+### Production URL
+http://localhost:5678/webhook/040843d9-ca82-413f-b8c5-32a59b5e55d4
+
